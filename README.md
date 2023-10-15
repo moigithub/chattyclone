@@ -44,3 +44,7 @@ npx prisma db push
 
 npx prisma migrate reset //delete db data
 npx prisma studio (abre una ui en el browser)
+
+
+https://www.youtube.com/watch?v=ZbX4Ok9YX94&t=37052s
+
